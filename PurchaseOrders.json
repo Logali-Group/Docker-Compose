@@ -1,0 +1,34 @@
+{
+  "records": [
+    {
+      "value": {
+        "CompanyCode": "1010",
+        "PurchasingOrganization": "1010",
+        "PurchasingGroup": "001",
+        "PurchaseOrderType": "NB",
+        "Supplier": "10300002",
+        "PurchaseOrderDate": "/Date(1761164717000)/",
+        "DocumentCurrency": "EUR",
+        "to_PurchaseOrderItem": [
+          {
+            "PurchaseOrderItem": "10",
+            "Material": "TG10",
+            "Plant": "1010",
+            "OrderQuantity": "4",
+            "NetPriceAmount": "12.81",
+            "NetPriceQuantity": "1",
+            "PurchaseOrderQuantityUnit": "PC",
+            "TaxCode": "V1",
+            "to_ScheduleLine": [
+              {
+                "ScheduleLine": "1",
+                "ScheduleLineDeliveryDate": "/Date(1761855600000)/",
+                "ScheduleLineOrderQuantity": "4"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
