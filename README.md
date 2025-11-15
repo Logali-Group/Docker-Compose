@@ -1,5 +1,3 @@
 # Docker-Compose
 
-Ejecutar el comando:
-
-'''docker-compose up -d''''
+Ejecutar el comando: docker-compose up -d
